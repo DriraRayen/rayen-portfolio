@@ -9,7 +9,8 @@ This portfolio was designed to:
 - Practice structuring a simple static website
 - Experiment with HTML, CSS, and basic UI layouts
 
-It remains available as an archive to show my progress and evolution over time.
+You can check it out via this link:  
+**http://rayendrira.me/rayen-portfolio/**
 
 ## 🛠️ Technologies Used
 - **HTML5**
@@ -29,5 +30,5 @@ A newer version of my portfolio is now live and actively updated.
 
 ## 🚀 New Portfolio
 You can view the updated version here:  
-http://rayendrira.me
+**http://rayendrira.me**
 
